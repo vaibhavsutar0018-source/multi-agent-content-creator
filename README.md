@@ -13,7 +13,5 @@ User enters a topic → agents process it → final content is generated.
 
 ## 🛠️ Technologies Used
 - Python
-- Google Colab
-
 ## 🚀 Output
 Generates structured blog content based on user input.
