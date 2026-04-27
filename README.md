@@ -15,3 +15,9 @@ User enters a topic → agents process it → final content is generated.
 - Python
 ## 🚀 Output
 Generates structured blog content based on user input.
+
+## ▶️ How to Run
+1. Open the notebook in Google Colab
+2. Click Run
+3. Enter a topic
+4. Get output
